@@ -1,0 +1,5 @@
+EmployeeName,EmployeeBirthday,ManagerName,ManagerBirthday
+Edwards,"1958-12-08 00:00:00",Adams,"1962-02-18 00:00:00"
+Park,"1947-09-19 00:00:00",Edwards,"1958-12-08 00:00:00"
+King,"1970-05-29 00:00:00",Mitchell,"1973-07-01 00:00:00"
+Callahan,"1968-01-09 00:00:00",Mitchell,"1973-07-01 00:00:00"
